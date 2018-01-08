@@ -16,11 +16,9 @@
       - What do Agile teams look like?
       - Scrum Workflow
     * Environment Setup 
-      - Understanding Unix/MacOS
       - Package Management (Homebrew)
-    * Terminal (System Navigation, File Manipulation)
-      - VI
-      - VI Configuration
+      - Terminal Intro (System Navigation, File Manipulation)
+      - VI Intro
     * The Internet in a nutshell
       - Networking Fundamentals
       - Supporting Protocols
